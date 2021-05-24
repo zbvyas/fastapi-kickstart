@@ -13,6 +13,7 @@ dependencies:
   - coverage=5.5=py37h9ed2024_2
   - cryptography=3.4.7=py37h2fd3fbb_0
   - fastapi=0.65.1=pyhd8ed1ab_0
+  - greenlet=1.1.0=py37h23ab428_0
   - h11=0.12.0=pyhd8ed1ab_0
   - httptools=0.1.1=py37h7585375_2
   - idna=2.10=pyhd3eb1b0_0
@@ -23,6 +24,8 @@ dependencies:
   - libffi=3.3=hb1e8313_2
   - libuv=1.41.0=hbcf498f_0
   - more-itertools=8.7.0=pyhd3eb1b0_0
+  - mysql-connector-c=6.1.11=hccea1a4_1
+  - mysqlclient=2.0.3=py37h23ab428_1
   - ncurses=6.2=h0a44026_1
   - openssl=1.1.1k=h9ed2024_0
   - packaging=20.9=pyhd3eb1b0_0
@@ -45,6 +48,7 @@ dependencies:
   - requests=2.25.1=pyhd3eb1b0_0
   - setuptools=52.0.0=py37hecd8cb5_0
   - six=1.15.0=py37hecd8cb5_0
+  - sqlalchemy=1.4.15=py37h9ed2024_0
   - sqlite=3.35.4=hce871da_0
   - starlette=0.14.2=pyhd8ed1ab_0
   - tk=8.6.10=hb0a8c7a_0

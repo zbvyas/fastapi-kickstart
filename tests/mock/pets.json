@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Charlie",
+    "color": "Tan",
+    "breed": "Golden Doodle"
+  },
+  {
+    "id": 2,
+    "name": "Jack",
+    "color": "White/Tan",
+    "breed": "Jack Russell"
+  },
+  {
+    "id": 3,
+    "name": "Marty",
+    "color": "Tri-Colored",
+    "breed": "Corgi"
+  },
+  {
+    "id": 4,
+    "name": "Coconut",
+    "color": "White",
+    "breed": "Samoyed"
+  },
+  {
+    "id": 5,
+    "name": "Tucker",
+    "color": "Golden",
+    "breed": "Golden Retriever"
+  }
+]

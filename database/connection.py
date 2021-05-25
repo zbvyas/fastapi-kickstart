@@ -4,6 +4,7 @@ from sqlalchemy.orm import sessionmaker
 from dotenv import load_dotenv
 from os import environ
 
+
 vars = load_dotenv()
 user = environ.get('PETS_DATABASE_USER')
 password = environ.get('PETS_DATABASE_PASSWORD')
